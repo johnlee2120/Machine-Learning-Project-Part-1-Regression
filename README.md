@@ -10,6 +10,8 @@ _README file Last updated: [March 2026]_
 - Key drivers of price: **engine size, curb weight, and brand category**
 - Business impact: Enables more accurate vehicle pricing, improved margin optimization, and better identification of mispriced vehicles
 
+<br><br><br>
+
 ## Detailed Sections
 
 **Objective:** 
