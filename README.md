@@ -62,6 +62,8 @@ Predict car prices using structured automotive data and evaluate multiple regres
 - Polynomial features caused severe overfitting without regularization
 - Scaling is critical for SGD performance
 
+<br><br><br>
+
 ## Images:
 
 <p align="center">
@@ -91,6 +93,8 @@ Predict car prices using structured automotive data and evaluate multiple regres
 <p align="center">
   <em><strong>Model comparisons (Lasso is strongest)</strong></em>
 </p>
+
+<br><br><br>
 
 ## Business Impact & Recommendations
 
