@@ -68,6 +68,7 @@ Predict car prices using structured automotive data and evaluate multiple regres
   <em><strong>Before and after log transforming the "engine size" feature</strong></em>
 </p>
 
+<br><br><br>
 
 <p align="center">
   <img src="Images/model%20comparisons.png" width="300"/>
