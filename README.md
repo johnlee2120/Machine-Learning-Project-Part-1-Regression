@@ -1,4 +1,4 @@
-_README File Last updated: [March 2026]_
+_README file Last updated: [March 2026]_
 
 ## Part 1: Regression
 
