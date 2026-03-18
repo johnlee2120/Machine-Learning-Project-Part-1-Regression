@@ -64,6 +64,18 @@ Predict car prices using structured automotive data and evaluate multiple regres
 
 <br><br><br>
 
+
+## Business Impact & Recommendations
+
+- Price vehicles more accurately using key features such as engine size and curb weight, improving pricing consistency and competitiveness
+- Use the model to identify underpriced or overpriced vehicles, enabling better margin optimization
+- Apply log-transformed models (Lasso) in production to ensure stable predictions and avoid overfitting seen in polynomial models
+- Prioritize simpler, regularized models over complex polynomial models to maintain generalization on new data
+- Ensure proper feature scaling for gradient based models (SGD) to maintain reliable performance in real world deployment
+
+
+<br><br><br>
+
 ## Images:
 
 <p align="center">
@@ -93,14 +105,4 @@ Predict car prices using structured automotive data and evaluate multiple regres
 <p align="center">
   <em><strong>Model comparisons (Lasso is strongest)</strong></em>
 </p>
-
-<br><br><br>
-
-## Business Impact & Recommendations
-
-- Price vehicles more accurately using key features such as engine size and curb weight, improving pricing consistency and competitiveness
-- Use the model to identify underpriced or overpriced vehicles, enabling better margin optimization
-- Apply log-transformed models (Lasso) in production to ensure stable predictions and avoid overfitting seen in polynomial models
-- Prioritize simpler, regularized models over complex polynomial models to maintain generalization on new data
-- Ensure proper feature scaling for gradient based models (SGD) to maintain reliable performance in real world deployment
 
