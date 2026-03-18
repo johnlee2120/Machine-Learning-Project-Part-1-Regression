@@ -88,7 +88,7 @@ Predict car prices using structured automotive data and evaluate multiple regres
   <em><strong>Model comparisons (Lasso is strongest)</strong></em>
 </p>
 
-**Business Impact & Recommendations**
+## Business Impact & Recommendations
 
 - Price vehicles more accurately using key features such as engine size and curb weight, improving pricing consistency and competitiveness
 - Use the model to identify underpriced or overpriced vehicles, enabling better margin optimization
