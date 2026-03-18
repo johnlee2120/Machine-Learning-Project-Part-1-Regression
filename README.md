@@ -19,7 +19,7 @@ _README file Last updated: [March 2026]_
 - **Evaluation:** RMSE, R² Score, Residual Analysis, Predicted vs Actual Comparison
 - **Validation & Tuning:** Train/Test Split, Cross Validation, Polynomial Degree Tuning
 - **Regularization:** L1 (Lasso), L2 (Ridge), Elastic Net
-- 
+
 <br><br><br>
 
 ## Detailed Sections
