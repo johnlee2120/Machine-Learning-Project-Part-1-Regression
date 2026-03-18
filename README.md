@@ -12,6 +12,16 @@ _README file Last updated: [March 2026]_
 
 <br><br><br>
 
+## Techniques Used
+
+- **Models:** Linear Regression, Polynomial Regression, Ridge, Lasso, Elastic Net, SGD Regression
+- **Feature Engineering & Processing:** One-Hot Encoding, Log Transformation, Custom Feature Creation (brand_category)
+- **Evaluation:** RMSE, R² Score, Residual Analysis, Predicted vs Actual Comparison
+- **Validation & Tuning:** Train/Test Split, Cross Validation, Polynomial Degree Tuning
+- **Regularization:** L1 (Lasso), L2 (Ridge), Elastic Net
+- 
+<br><br><br>
+
 ## Detailed Sections
 
 **Objective:** 
