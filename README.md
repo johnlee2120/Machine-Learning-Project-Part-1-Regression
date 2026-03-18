@@ -63,7 +63,7 @@ Predict car prices using structured automotive data and evaluate multiple regres
 </p>
 
 <p align="center">
-  <em>Before and after log transforming the "engine size" feature</em>
+  <em><strong>Before and after log transforming the "engine size" feature</strong></em>
 </p>
 
 
@@ -72,7 +72,7 @@ Predict car prices using structured automotive data and evaluate multiple regres
 </p>
 
 <p align="center">
-  <em>Model comparisons (Lasso is strongest)</em>
+  <em><strong>Model comparisons (Lasso is strongest)</strong></em>
 </p>
 
 
