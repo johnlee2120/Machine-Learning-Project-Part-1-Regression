@@ -55,7 +55,7 @@ Predict car prices using structured automotive data and evaluate multiple regres
 </p>
 
 <p align="center">
-  <em>Predicted vs Actual prices using Lasso Regression (strong linear fit)</em>
+  <em><strong>Predicted vs Actual prices using Lasso Regression (strong linear fit)</strong></em>
 </p>
 
 <p align="center">
