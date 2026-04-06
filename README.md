@@ -5,7 +5,7 @@ _README file Last updated: [March 2026]_
 ## Executive Summary
 
 - Built and evaluated multiple regression models to predict car prices (~200 observations, 25 features)
-- Best overall model: **Lasso Regression (R² = 0.80, RMSE = 3711.17)** with strong generalization
+- Best overall model: **Linear Regression (+ Lasso Regularization) (R² = 0.80, RMSE = 3711.17)** with strong generalization
 - Regularization significantly improved performance compared to polynomial models, reducing overfitting
 - Key drivers of price: **engine size, curb weight, and brand category**
 - Business impact: Enables more accurate vehicle pricing, improved margin optimization, and better identification of mispriced vehicles
@@ -61,7 +61,7 @@ Predict car prices using structured automotive data and evaluate multiple regres
 
 **Results:**
 
-- Best Model - Lasso Regression
+- Best Model - Linear Regression with Lasso Regularization
 - R²: 0.80 (highest)
 - RMSE: 3711.17 (lowest)
 - Regularization improved generalization vs polynomial overfitting
@@ -79,7 +79,7 @@ Predict car prices using structured automotive data and evaluate multiple regres
 
 - Price vehicles more accurately using key features such as engine size and curb weight, improving pricing consistency and competitiveness
 - Use the model to identify underpriced or overpriced vehicles, enabling better margin optimization
-- Apply log-transformed models (Lasso) in production to ensure stable predictions and avoid overfitting seen in polynomial models
+- Apply log-transformed models (with Lasso regularization) in production to ensure stable predictions and avoid overfitting seen in polynomial models
 - Prioritize simpler, regularized models over complex polynomial models to maintain generalization on new data
 - Ensure proper feature scaling for gradient based models (SGD) to maintain reliable performance in real world deployment
 
