@@ -5,7 +5,7 @@ _README file Last updated: [March 2026]_
 ## Executive Summary
 
 - Built and evaluated multiple regression models to predict car prices (~200 observations, 25 features)
-- Best overall model: **Linear Regression (+ Lasso Regularization) (R² = 0.80, RMSE = 3711.17)** with strong generalization
+- Best overall model: **Linear Regression (with Lasso Regularization) (R² = 0.80, RMSE = 3711.17)** with strong generalization
 - Regularization significantly improved performance compared to polynomial models, reducing overfitting
 - Key drivers of price: **engine size, curb weight, and brand category**
 - Business impact: Enables more accurate vehicle pricing, improved margin optimization, and better identification of mispriced vehicles
