@@ -1,4 +1,3 @@
-_README file Last updated: [March 2026]_
 
 ## Machine Learning Project: Regression
 
